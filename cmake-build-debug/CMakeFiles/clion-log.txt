@@ -1,0 +1,8 @@
+/home/benjamin/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/benjamin/Repositories/Digi/FSM
+-- Found SFML 2.5.1 in /home/benjamin/Dependencies/sfml/lib/cmake/SFML
+-- SFML_INCLUDE_DIR: /home/benjamin/Dependencies/sfml/include
+-- SFML_LIBRARIES: 
+-- SFML_VERSION: 2.5.1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/benjamin/Repositories/Digi/FSM/cmake-build-debug
